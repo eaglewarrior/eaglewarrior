@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Rinki , Currently working as a DataScientist at Fractal analytics ,which is India top most analytics Firm recognised by gartner.
+</p>
+
+
+<h1 align='center'><i>Stay awesome!</i></h1>
+
 
 <!--
 **eaglewarrior/eaglewarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
