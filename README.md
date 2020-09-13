@@ -1,6 +1,15 @@
 <h1 align='center'> Hi! :wave:</h1>
+
+![](https://visitor-badge.glitch.me/badge?page_id=eaglewarrior.eaglewarrior)
 <p align='center'>
-Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. at Fractal analytics. I love experimenting and learning new technologies ⚡ .
+Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. at Fractal analytics. I love experimenting and learning new technologies ⚡ .<br><br>
+
+
+
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<a href="https://allaboutbeingtecky.wordpress.com/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<br>
 
   <p align="center">
     <a href="https://codecov.io/gh/eaglewarrior/github-readme-stats">
@@ -23,7 +32,13 @@ Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. a
   </p>
 
 My key interest 🌱 areas are ML, DL, NLP, and bigdata-cloud technologies. I aspire to build a product that combines the power of BIG data and AI technologies. And lastly a passionate Opensource developer and teacher/learner 🌱 for a lifetime & also a Microsoft certified trainer (MCT 😄 ).
-  
+### Key Skills 
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+</p>
 I am a freelance trainer too with the hobby of teaching and passion for data science & problem-solving.
 
 Here are some of my sample videos :
@@ -60,18 +75,5 @@ GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
-
-<!--
-**eaglewarrior/eaglewarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+<p align="center">This <i>README</i> file is generated <b>every 1 month </b>!</br>Last refresh: Sunday, 13 September, 01:00 pm IST <br /></p>
