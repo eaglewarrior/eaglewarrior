@@ -1,8 +1,8 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Rinki , Currently working as a DataScientist at Fractal analytics ,which is India top most analytics Firm recognised by gartner.
+I'm Rinki , Currently 🔭 working as a DataScientist at Fractal analytics ,which is India top most analytics Firm recognised by gartner.
 </p>
-
+<p align='center'>For enquiries, feel free to reach out over 💬 on <a href="https://www.linkedin.com/in/rinki-nag/"> 📫 LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
