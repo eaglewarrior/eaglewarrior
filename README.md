@@ -13,7 +13,12 @@ Here are some of my sample videos :
 
 👯 I am highly skilled in Python, Machine learning, deep learning, big data, and cloud technologies also have a strong background in software engineering and web development.
 
-🌱 Currently I am trying to learn and apply scala and pyspark in projects. 
+🌱 Currently I am trying to learn and apply scala and pyspark in projects.
+
+## Open Source  Life
+
+🔭 I have been part of research at IIT Bombay for a year , currently just taken part and secured top 25% position in GSSOC'20 .
+
 
 <p align='center'>For enquiries, feel free to reach out over 💬 on <a href="https://www.linkedin.com/in/rinki-nag/"> 📫 LinkedIn</a>.</p>
 
