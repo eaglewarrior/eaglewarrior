@@ -25,11 +25,11 @@ Here are some of my sample videos :
 Python, Pyspark, machine learning , web development, Data Analysis, Public speaking & Training
 
 ### Medium ✨✨✨✨
-Azure , Hadoop, Spark , Scala, Deep Learning, OOPS concepts
+Azure , Hadoop, Spark , Scala, Deep Learning, OOPS concepts, MySql
 
 ### Low ✨✨✨
 
-GO, 
+GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
 
 <p align='center'>For enquiries, feel free to reach out over 💬 on <a href="https://www.linkedin.com/in/rinki-nag/"> 📫 LinkedIn </a>.</p>
 
