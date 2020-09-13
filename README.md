@@ -1,6 +1,29 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. at Fractal analytics. I love experimenting and learning new technologies ⚡ . 
+Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. at Fractal analytics. I love experimenting and learning new technologies ⚡ .
+  
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
+    <br />
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a>
+  </p>
 
 My key interest 🌱 areas are ML, DL, NLP, and bigdata-cloud technologies. I aspire to build a product that combines the power of BIG data and AI technologies. And lastly a passionate Opensource developer and teacher/learner 🌱 for a lifetime & also a Microsoft certified trainer (MCT 😄 ).
   
@@ -19,6 +42,10 @@ Here are some of my sample videos :
 
 🔭 I have been part of research at IIT Bombay for a year , currently just taken part and secured top 25% position in GSSOC'20 .
 
+
+![eaglewarrior's github stats](https://github-readme-stats.vercel.app/api?username=eaglewarrior&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaglewarrior&layout=compact)](https://github.com/eaglewarrior/github-readme-stats)
+
 ## Skills 🔭
 
 ### High ✨✨✨✨✨
@@ -32,6 +59,7 @@ Azure , Hadoop, Spark , Scala, Deep Learning, OOPS concepts, MySql
 GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
 
 <p align='center'>For enquiries, feel free to reach out over 💬 on <a href="https://www.linkedin.com/in/rinki-nag/"> 📫 LinkedIn </a>.</p>
+
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
