@@ -12,17 +12,6 @@ Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. a
 <br>
 
   <p align="center">
-    <a href="https://codecov.io/gh/eaglewarrior/github-readme-stats">
-      <img src="https://codecov.io/gh/eaglewarrior/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/eaglewarrior/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/eaglewarrior/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/eaglewarrior/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/eaglewarrior/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
       <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
