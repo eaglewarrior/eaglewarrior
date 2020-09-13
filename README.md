@@ -1,6 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=eaglewarrior.eaglewarrior)
+![Visitor Count](https://profile-counter.glitch.me/eaglewarrior/count.svg)
 <p align='center'>
 Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. at Fractal analytics. I love experimenting and learning new technologies ⚡ .<br><br>
 
