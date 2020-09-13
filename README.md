@@ -19,8 +19,19 @@ Here are some of my sample videos :
 
 🔭 I have been part of research at IIT Bombay for a year , currently just taken part and secured top 25% position in GSSOC'20 .
 
+## Skills 🔭
 
-<p align='center'>For enquiries, feel free to reach out over 💬 on <a href="https://www.linkedin.com/in/rinki-nag/"> 📫 LinkedIn</a>.</p>
+### High ✨✨✨✨✨
+Python, Pyspark, machine learning , web development, Data Analysis, Public speaking & Training
+
+### Medium ✨✨✨✨
+Azure , Hadoop, Spark , Scala, Deep Learning, OOPS concepts
+
+### Low ✨✨✨
+
+GO, 
+
+<p align='center'>For enquiries, feel free to reach out over 💬 on <a href="https://www.linkedin.com/in/rinki-nag/"> 📫 LinkedIn </a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
