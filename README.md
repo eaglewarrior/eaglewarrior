@@ -32,8 +32,8 @@ Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. a
   </p>
 
 My key interest 🌱 areas are ML, DL, NLP, and bigdata-cloud technologies. I aspire to build a product that combines the power of BIG data and AI technologies. And lastly a passionate Opensource developer and teacher/learner 🌱 for a lifetime & also a Microsoft certified trainer (MCT 😄 ).
-### Key Skills 
-<br>
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
