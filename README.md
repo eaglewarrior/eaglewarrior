@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. at Fractal analytics. I love experimenting and learning new technologies ⚡ .
-  
+
   <p align="center">
     <a href="https://codecov.io/gh/eaglewarrior/github-readme-stats">
       <img src="https://codecov.io/gh/eaglewarrior/github-readme-stats/branch/master/graph/badge.svg" />
