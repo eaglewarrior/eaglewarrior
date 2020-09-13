@@ -55,7 +55,7 @@ Python, Pyspark, machine learning , web development, Data Analysis, Public speak
 ### Medium ✨✨✨✨
 Azure , Hadoop, Spark , Scala, Deep Learning, OOPS concepts, MySql
 
-### Low ✨✨✨
+### Low ✨✨
 
 GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
 
@@ -65,4 +65,4 @@ GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 1 month </b>!</br>Last refresh: Sunday, 13 September, 03:00 pm IST <br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 1 month </b>!</br>Last refresh: Sunday, 13 September, 03:20 pm IST <br /></p>
