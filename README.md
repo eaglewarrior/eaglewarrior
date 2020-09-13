@@ -1,7 +1,20 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Rinki , Currently 🔭 working as a DataScientist at Fractal analytics ,which is India top most analytics Firm recognised by gartner.
-</p>
+Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. at Fractal analytics. I love experimenting and learning new technologies ⚡ . 
+
+My key interest 🌱 areas are ML, DL, NLP, and bigdata-cloud technologies. I aspire to build a product that combines the power of BIG data and AI technologies. And lastly a passionate Opensource developer and teacher/learner 🌱 for a lifetime & also a Microsoft certified trainer (MCT 😄 ).
+  
+I am a freelance trainer too with the hobby of teaching and passion for data science & problem-solving.
+
+Here are some of my sample videos :
+1) https://www.youtube.com/watch?v=_g6h8F4T3hE&t=1171s
+
+2) https://www.youtube.com/watch?v=DxakwmwjUWI&t=1920s
+
+👯 I am highly skilled in Python, Machine learning, deep learning, big data, and cloud technologies also have a strong background in software engineering and web development.
+
+🌱 Currently I am trying to learn and apply scala and pyspark in projects. 
+
 <p align='center'>For enquiries, feel free to reach out over 💬 on <a href="https://www.linkedin.com/in/rinki-nag/"> 📫 LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
