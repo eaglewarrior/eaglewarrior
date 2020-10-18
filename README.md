@@ -41,7 +41,7 @@ Here are some of my sample videos :
 
 ## Open Source  Life
 
-🔭 I have been part of research at IIT Bombay for a year worked on a open source government funded project , currently just taken part and secured top 25% position in GSSOC'20 please check out at [Link](https://www.gssoc.tech/leaderboard) .
+🔭 I have been part of research at IIT Bombay for a year worked on a open source government funded project , currently just taken part and secured top 25% position in GSSOC'20 please check out at [Link](https://www.gssoc.tech/leaderboard) . Also I have completed the Hacktober Fest 2020 :)
 
 
 ![eaglewarrior's github stats](https://github-readme-stats.vercel.app/api?username=eaglewarrior&show_icons=true&theme=radical)
