@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/eaglewarrior/count.svg)
 <p align='center'>
-Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. at Fractal analytics. I love experimenting and learning new technologies ⚡ and also a Kaggle days Mumbai Oraganiser  and Data Science Ambassador at WIDS Mumbai.<br><br>
+Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the AIML team. at Fractal analytics. I love experimenting and learning new technologies ⚡ and also a Kaggle days Mumbai Organiser  and Data Science Ambassador at WIDS Mumbai.<br><br>
 
 
 
