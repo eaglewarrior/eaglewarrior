@@ -43,10 +43,14 @@ Here are some of my sample videos :
 
 🔭 I have been part of research at IIT Bombay for a year worked on a open source government funded project , currently just taken part and secured top 25% position in GSSOC'20 please check out at [Link](https://www.gssoc.tech/leaderboard) . Also I have completed the Hacktober Fest 2020 :)
 
-Currently I am working at Omdena Red Cross project as ML engineer for Red cross project for measuring impact of locust invasion.
+I have completed my work at Omdena Red Cross project as ML engineer for Red cross project for measuring impact of locust invasion.
 
 ![eaglewarrior's github stats](https://github-readme-stats.vercel.app/api?username=eaglewarrior&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaglewarrior&layout=compact)](https://github.com/eaglewarrior/github-readme-stats)
+
+If you want to interact with my videobot on Expertrons to know about my undefined experience. Not on Expertrons? Join now with my referral code ed2kwaa to unlock 50,000++ mins of Career Hacks & premium expert resumes worth Rs.10,000 for free! https://expertrons.com/me/undefined/undefined/5feed5b278e4e9654057fcbb
+
+Feel free to block my calendar at expertrons and get guidance on data science and AI career.
 
 ## Skills 🔭
 
@@ -66,4 +70,4 @@ GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 1 month </b>!</br>Last refresh: Monday, 2 November, 11:20 am IST <br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 1 month </b>!</br>Last refresh: Monday, 29 January 2021, 5:05 pm IST <br /></p>
