@@ -45,7 +45,7 @@ Here are some of my sample videos :
 
 🔭 I have been part of research at IIT Bombay for a year worked on a open source government funded project , currently just taken part and secured top 25% position in GSSOC'20 please check out at [Link](https://www.gssoc.tech/leaderboard) . Also I have completed the Hacktober Fest 2020 :)
 
-I have completed my work at Omdena Red Cross project as ML engineer for Red cross project for measuring impact of locust invasion.
+I have completed my work at Omdena Red Cross project as ML engineer for Red cross project for measuring impact of locust invasion and currently working on Slowing Down Aging and Living Healthier for Longer project by Omdena and Humanity.
 
 ![eaglewarrior's github stats](https://github-readme-stats.vercel.app/api?username=eaglewarrior&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaglewarrior&layout=compact)](https://github.com/eaglewarrior/github-readme-stats)
@@ -72,4 +72,4 @@ GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 1 month </b>!</br>Last refresh: Monday, 08 February 2021, 4:55 pm IST <br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 1 month </b>!</br>Last refresh: Monday, 08 February 2021, 4:58 pm IST <br /></p>
