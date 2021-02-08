@@ -72,4 +72,4 @@ GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 1 month </b>!</br>Last refresh: Monday, 08 February 2021, 4:58 pm IST <br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 1 month </b>!</br>Last refresh: Monday, 08 February 2021, 3:58 pm IST <br /></p>
