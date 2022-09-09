@@ -57,7 +57,7 @@ Feel free to block my calendar at expertrons and get guidance on data science an
 ## Skills 🔭
 
 ### High ✨✨✨✨✨
-Python, Pyspark, machine learning , web development, Data Analysis, Public speaking & Training
+Python, Pyspark, machine learning , web development, Data Analysis, Public speaking & Training, Data Strutures and Algorithms 
 
 ### Medium ✨✨✨✨
 Azure , Hadoop, Spark , Scala, Deep Learning, OOPS concepts, MySql
@@ -72,4 +72,4 @@ GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every time I add some skill or new experience </b>!</br>Last refresh: Monday, 01 January 2022, 22:34 pm IST <br /></p>
+<p align="center">This <i>README</i> file is generated <b>every time I add some skill or new experience </b>!</br>Last refresh: Monday, 09 September 2022, 28:56 pm IST <br /></p>
