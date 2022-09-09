@@ -27,7 +27,6 @@ My key interest 🌱 areas are ML, DL, NLP, and bigdata-cloud technologies. I as
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/dsa.svg" alt="DSA" style="vertical-align:top; margin:4px">
 </p>
 I am a freelance trainer too with the hobby of teaching and passion for data science & problem-solving.
 
