@@ -43,7 +43,7 @@ Here are some of my sample videos :
 
 ## Open Source  Life
 
-🔭 I have been part of research at IIT Bombay for a year worked on a open source government funded project , currently just taken part and secured top 25% position in GSSOC'20 please check out at [Link](https://www.gssoc.tech/leaderboard) . Also I have completed the Hacktober Fest 2020 :)
+🔭 I have been part of research at IIT Bombay for a year worked on a open source government funded project , currently just taken part and secured top 25% position in GSSOC'20 please check out at [Link](https://www.gssoc.tech/leaderboard) . Also I have completed the Hacktober Fest 2020, 21, and heading towards 22 :)
 
 I have completed my work at Omdena Red Cross project as ML engineer for Red cross project for measuring impact of locust invasion and currently working on Slowing Down Aging and Living Healthier for Longer project by Omdena and Humanity.
 
