@@ -43,7 +43,7 @@ Here are some of my sample videos :
 
 ## Open Source  Life
 
-🔭 I have been part of research at IIT Bombay for a year worked on a open source government funded project , currently just taken part and secured top 25% position in GSSOC'20 please check out at [Link](https://www.gssoc.tech/leaderboard) . Also I have completed the Hacktober Fest 2020, 21, and heading towards 22 :)
+🔭 I have been part of research at IIT Bombay for a year worked on a open source government funded project , currently just taken part and secured top 25% position in GSSOC'20  . Also I have completed the Hacktober Fest 2020, 21,22 and heading towards 23 :)
 
 I have completed my work at Omdena Red Cross project as ML engineer for Red cross project for measuring impact of locust invasion and currently working on Slowing Down Aging and Living Healthier for Longer project by Omdena and Humanity.
 
@@ -74,4 +74,4 @@ GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every time I add some skill or new experience </b>!</br>Last refresh: Monday, 09 September 2022, 28:56 pm IST <br /></p>
+<p align="center">This <i>README</i> file is generated <b>every time I add some skill or new experience </b>!</br>Last refresh: Friday, 18 November 2022, 21:15 pm IST <br /></p>
