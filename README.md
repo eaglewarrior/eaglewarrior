@@ -50,10 +50,6 @@ I have completed my work at Omdena Red Cross project as ML engineer for Red cros
 ![eaglewarrior's github stats](https://github-readme-stats.vercel.app/api?username=eaglewarrior&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaglewarrior&layout=compact)](https://github.com/eaglewarrior/github-readme-stats)
 
-If you want to interact with my videobot on Expertrons to know about my undefined experience. Not on Expertrons? Join now with my referral code ed2kwaa to unlock 50,000++ mins of Career Hacks & premium expert resumes worth Rs.10,000 for free! https://expertrons.com/me/undefined/undefined/5feed5b278e4e9654057fcbb
-
-Feel free to block my calendar at expertrons and get guidance on data science and AI career.
-
 ## Blogs written by me
 1. https://omdena.com/blog/nlp-regex/
 2. https://medium.com/omdena/an-ai-project-for-good-overcoming-procrastination-and-learning-faster-29e9329ced12
