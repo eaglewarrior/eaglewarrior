@@ -54,6 +54,12 @@ If you want to interact with my videobot on Expertrons to know about my undefine
 
 Feel free to block my calendar at expertrons and get guidance on data science and AI career.
 
+## Blogs written by me
+1. https://omdena.com/blog/nlp-regex/
+2. https://medium.com/omdena/an-ai-project-for-good-overcoming-procrastination-and-learning-faster-29e9329ced12
+3. https://blog.loginradius.com/engineering/full-data-science-pipeline-implementation/
+4. https://allaboutbeingtecky.wordpress.com/  (My blog website)
+5. https://omdena.com/blog/nlp-libraries/
 ## Skills 🔭
 
 ### High ✨✨✨✨✨
