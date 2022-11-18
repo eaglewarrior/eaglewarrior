@@ -59,14 +59,14 @@ I have completed my work at Omdena Red Cross project as ML engineer for Red cros
 ## Skills 🔭
 
 ### High ✨✨✨✨✨
-Python, Pyspark, machine learning , web development, Data Analysis, Public speaking & Training, Data Strutures and Algorithms 
+Python, machine learning , web development(HTML , CSS), Data Analysis, Public speaking & Training, Data Strutures and Algorithms , Scraping
 
 ### Medium ✨✨✨✨
-Azure , Hadoop, Spark , Scala, Deep Learning, OOPS concepts, MySql
+Azure , Deep Learning, OOPS concepts, MySql, Pyspark
 
 ### Low ✨✨
 
-GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R
+GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R, hadoop
 
 <p align='center'>For enquiries, feel free to reach out over 💬 on <a href="https://www.linkedin.com/in/rinki-nag/"> 📫 LinkedIn </a>.</p>
 
