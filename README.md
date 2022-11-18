@@ -56,6 +56,7 @@ I have completed my work at Omdena Red Cross project as ML engineer for Red cros
 3. https://blog.loginradius.com/engineering/full-data-science-pipeline-implementation/
 4. https://allaboutbeingtecky.wordpress.com/  (My blog website)
 5. https://omdena.com/blog/nlp-libraries/
+6. https://medium.com/@rinkinag24/five-minutes-read-to-python-c822cc3646c8
 ## Skills 🔭
 
 ### High ✨✨✨✨✨
