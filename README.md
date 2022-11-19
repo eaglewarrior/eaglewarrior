@@ -51,6 +51,9 @@ I have completed my work at Omdena Red Cross project as ML engineer for Red cros
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaglewarrior&layout=compact)](https://github.com/eaglewarrior/github-readme-stats)
 
 ## Blogs written by me
+
+Here is my medium profile https://medium.com/@rinkinag24 , please follow me for all the latest blogs I publish.
+
 1. https://omdena.com/blog/nlp-regex/
 2. https://medium.com/omdena/an-ai-project-for-good-overcoming-procrastination-and-learning-faster-29e9329ced12
 3. https://blog.loginradius.com/engineering/full-data-science-pipeline-implementation/
@@ -76,4 +79,4 @@ GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R, hadoop
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every time I add some skill or new experience </b>!</br>Last refresh: Friday, 18 November 2022, 21:15 pm IST <br /></p>
+<p align="center">This <i>README</i> file is generated <b>every time I add some skill or new experience </b>!</br>Last refresh: Saturday, 19 November 2022, 18:05 pm IST <br /></p>
