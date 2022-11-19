@@ -39,7 +39,7 @@ Here are some of my sample videos :
 
 👯 I am highly skilled in Python, Machine learning, deep learning, big data, and cloud technologies also have a strong background in software engineering and web development.
 
-🌱 Currently I am improving my competative coding skills as being datascientist I have to improve my coding skills where competative coding will improve my thinking ability to code more efficiently.
+🌱 Currently I am improving my competitive coding skills as being datascientist I have to improve my coding skills where competitive coding will improve my thinking ability to code more efficiently.
 
 ## Open Source  Life
 
