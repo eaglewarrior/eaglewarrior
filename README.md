@@ -57,6 +57,7 @@ I have completed my work at Omdena Red Cross project as ML engineer for Red cros
 4. https://allaboutbeingtecky.wordpress.com/  (My blog website)
 5. https://omdena.com/blog/nlp-libraries/
 6. https://medium.com/@rinkinag24/five-minutes-read-to-python-c822cc3646c8
+7. https://medium.com/@rinkinag24/a-comprehensive-guide-to-siamese-neural-networks-3358658c0513
 ## Skills 🔭
 
 ### High ✨✨✨✨✨
