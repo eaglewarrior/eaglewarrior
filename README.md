@@ -67,7 +67,7 @@ Here is my medium profile https://medium.com/@rinkinag24 , please follow me for 
 Python, machine learning , web development(HTML , CSS), Data Analysis, Public speaking & Training, Data Strutures and Algorithms , Scraping
 
 ### Medium ✨✨✨✨
-Azure , Deep Learning, OOPS concepts, MySql, Pyspark
+Azure , Deep Learning, OOPS concepts, MySql, Pyspark, Flask
 
 ### Low ✨✨
 
@@ -79,4 +79,4 @@ GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R, hadoop
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every time I add some skill or new experience </b>!</br>Last refresh: Saturday, 19 November 2022, 18:05 pm IST <br /></p>
+<p align="center">This <i>README</i> file is generated <b>every time I add some skill or new experience </b>!</br>Last refresh: Wednesday, 3rd May 2023, 15:05 pm IST <br /></p>
