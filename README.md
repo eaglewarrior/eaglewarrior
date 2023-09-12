@@ -64,14 +64,14 @@ Here is my medium profile https://medium.com/@rinkinag24 , please follow me for 
 ## Skills 🔭
 
 ### High ✨✨✨✨✨
-Python, machine learning , web development(HTML , CSS), Data Analysis, Public speaking & Training, Data Strutures and Algorithms , Scraping
+Python, machine learning , web development(HTML , CSS), Data Analysis, Public speaking & Training, Data Strutures and Algorithms , Scraping, NLP
 
 ### Medium ✨✨✨✨
-Azure , Deep Learning, OOPS concepts, MySql, Pyspark, Flask
+Azure , Deep Learning, OOPS concepts, MySql, Pyspark, Flask, AWS
 
 ### Low ✨✨
 
-GO Lang, Time Series, NLP ,Deep Reinforcement Learning, AWS, GCP, R, hadoop
+GO Lang, Time Series ,Deep Reinforcement Learning,GCP, R, hadoop
 
 <p align='center'>For enquiries, feel free to reach out over 💬 on <a href="https://www.linkedin.com/in/rinki-nag/"> 📫 LinkedIn </a>.</p>
 
