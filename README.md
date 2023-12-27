@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/eaglewarrior/count.svg)
 <p align='center'>
-Hi, I'm Rinki, an AI enthusiast and currently 🔭 working with the SDLC team. at Sears Holdings India. I love experimenting and learning new technologies ⚡ , I am a  active contributor to Omdena Social AI Projects and was also a former Kaggle days Mumbai Organiser  and former Data Science Ambassador at WIDS Mumbai and former data scientist at Fractal analytics .<br><br>
+Hi, I'm Rinki, an AI practitioner and currently 🔭 working with the IBM in Artificial Intelligence team as a Senior Data Scientist. I love experimenting and learning new technologies ⚡ , I am a  active contributor to Omdena Social AI Projects and was also a former Kaggle days Mumbai Organiser  and former Data Science Ambassador at WIDS Mumbai and former data scientist at Fractal analytics .<br><br>
 
 
 
@@ -79,4 +79,4 @@ GO Lang, Time Series ,Deep Reinforcement Learning,GCP, R, hadoop
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every time I add some skill or new experience </b>!</br>Last refresh: Thursday, 30th November 2023, 18:43 pm IST <br /></p>
+
