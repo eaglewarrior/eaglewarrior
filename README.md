@@ -1,6 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 
-![Visitor Count](https://profile-counter.glitch.me/eaglewarrior/count.svg)
+
 <p align='center'>
 Hi, I'm Rinki, an AI practitioner and currently 🔭 working with the IBM in Artificial Intelligence team as a Senior Data Scientist. I love experimenting and learning new technologies ⚡ , I am a  active contributor to Omdena Social AI Projects and was also a former Kaggle days Mumbai Organiser  and former Data Science Ambassador at WIDS Mumbai and former data scientist at Fractal analytics .<br><br>
 
